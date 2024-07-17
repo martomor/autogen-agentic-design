@@ -10,3 +10,9 @@ You can find the notebook [here](/notebooks/L1_Multi-Agent_Conversation_and_Stan
 This notebook explores the concept of sequential chats and its application in customer onboarding. It provides an introduction to the topic and discusses various techniques and algorithms used in sequential chat systems.
 
 You can find the notebook [here](/notebooks/L2_Sequential_Chats_and_Customer_Onboarding.ipynb).
+
+## L3_Reflection_and_Blogpost_Writing.ipynb
+
+This notebook delves into the concept of reflection and its application in blogpost writing. It offers an introduction to the topic and explores various techniques and strategies employed in reflective writing through the assignment of roles to agents.
+
+You can find the notebook [here](/notebooks/L3_Reflection_and_Blogpost_Writing.ipynb).
