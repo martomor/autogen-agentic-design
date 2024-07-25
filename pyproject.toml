@@ -12,6 +12,8 @@ jupyter = "^1.0.0"
 notebook = "^7.2.1"
 ipykernel = "^6.29.4"
 pyautogen = "^0.2.30"
+python-chess = "^1.999"
+typing-extensions = "^4.12.2"
 
 [tool.poetry.group.dev.dependencies]
 python-dotenv = "^1.0.1"
