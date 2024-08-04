@@ -1,0 +1,1 @@
+python3 plot_stock_gains.py
