@@ -1,7 +1,14 @@
 # AI Agentic Design Patterns with AutoGen
 
 
-This repository contains the code for the [AI Agentic Design Patterns with AutoGen](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/) offered by DeepLearning AI.
+This repository contains my notes and code for the [AI Agentic Design Patterns with AutoGen](https://www.deeplearning.ai/short-courses/ai-agentic-design-patterns-with-autogen/) offered by DeepLearning AI.
+
+## Main Topics Covered
+
+- Multi-agent Collaboration
+- Reflection
+- Code Generation
+- Planning
 
 
 ## AutoGen Summary
