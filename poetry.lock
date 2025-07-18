@@ -1664,14 +1664,14 @@ files = [
 tests = ["pytest"]
 
 [[package]]
-name = "pyautogen"
+name = "ag2"
 version = "0.2.30"
 description = "Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework"
 optional = false
 python-versions = "<3.13,>=3.8"
 files = [
-    {file = "pyautogen-0.2.30-py3-none-any.whl", hash = "sha256:4810e50072fbe6680c7fce500695c5998dde1c92bc6c4691a6ed371aea9810cf"},
-    {file = "pyautogen-0.2.30.tar.gz", hash = "sha256:69dd4c0adab73c2964a2d91f62457398cf663fabe061567a8b3cc62252a5afac"},
+    {file = "ag2-0.2.30-py3-none-any.whl", hash = "sha256:4810e50072fbe6680c7fce500695c5998dde1c92bc6c4691a6ed371aea9810cf"},
+    {file = "ag2-0.2.30.tar.gz", hash = "sha256:69dd4c0adab73c2964a2d91f62457398cf663fabe061567a8b3cc62252a5afac"},
 ]
 
 [package.dependencies]
